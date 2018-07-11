@@ -4,6 +4,4 @@ var welcomeMessage = `Welcome to Klossybook, ${currentUser}!`;
 
 var excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
-var shortGreeting = `Welcome, ${currentUser}`;
-'Grace Hopper'[0];
-'Grace Hopper'.slice()
+var shortGreeting = `Welcome, ${currentUser.slice(0,1)}!`;
