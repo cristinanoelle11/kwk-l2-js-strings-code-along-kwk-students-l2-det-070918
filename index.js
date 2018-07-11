@@ -6,3 +6,4 @@ var excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 var shortGreeting = `Welcome, ${currentUser}`;
 'Grace Hopper'[0];
+'Grace Hopper'.slice()
